@@ -79,7 +79,7 @@
     res.writeHead(200, {
       'Content-Type': 'text/plain'
     });
-    return res.end("Welcome to 0110 https://github.com/onplus/shadowsocks-0110");
+    return res.end("Welcome to 0110 https://github.com/135447836/0110");
   });
 
   wss = new WebSocketServer({
